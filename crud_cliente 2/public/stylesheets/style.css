@@ -1,0 +1,25 @@
+h1{
+	text-align: center;
+	background-color: #ffefd5;
+	font-size: 60px;
+}
+
+#carta{
+	margin-top: 2em;
+	border-style: solid;
+	border-color:green;
+	margin-left: 30px;
+	
+
+}
+
+h2{
+	margin-left: 15px;
+	background-color:#ffe0e9;
+
+}
+
+p{
+	margin-left: 15px;
+	font-size: 25px;
+}
